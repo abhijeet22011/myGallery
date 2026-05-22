@@ -20,6 +20,10 @@ A stylish gallery webpage displaying multiple images in a grid-based layout with
 - CSS Grid
 - Flexbox
 
+## 🌐 Live Demo
+🔗 https://abhijeet22011.github.io/myGallery/
+
+
 ## 📂 Project Structure
 ```bash
 My-Gallery/
